@@ -1,0 +1,7 @@
+.*
+!.ccls
+!.clang-tidy
+!.clang-format
+!.clangd
+!.framework
+!.gitignore
